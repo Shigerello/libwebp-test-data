@@ -1,5 +1,9 @@
 Check if a relative path works for WebP in Markdown.
 
-<img width="128" src="./alpha_color_cache.webp">
+HTML `img` tag.
 
 <img src="./bryce.webp">
+
+Markdown `![]()` ref.
+
+![](./bryce.webp)
